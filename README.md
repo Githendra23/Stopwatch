@@ -1,5 +1,5 @@
 # Stopwatch
-A stopwatch designed and developed using an Arduino card
+A stopwatch designed and developed using an Arduino card and two CD4511s
 
 Link <a href="https://www.tinkercad.com/things/1rauEIsYj2X-stopwatch?sharecode=shskpg3yfbL1ZQs-sQAx4HXle5MS7Kkrh65Z6KtTDf8">here</a> to test the stopwatch
 
